@@ -7,3 +7,9 @@
 
 ### Используемые библиотеки
 pandas, scikit-learn, numpy, matplotlib, seaborn, statsmodels
+
+### Вывод
+Моделью Random Forest спрогнозировано количество заказов с результатом RMSE 43.78.
+
+### Статус проекта
+Завершен
