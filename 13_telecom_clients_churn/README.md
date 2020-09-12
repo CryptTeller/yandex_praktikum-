@@ -6,3 +6,9 @@
 
 ### Используемые библиотеки
 pandas, scikit-learn, numpy, matplotlib, seaborn, xgboost, lightgbm, catboost
+
+### Вывод
+Моделью CatBoost определены клиенты, которые с высокой вероятностью откажутся от услуг.
+
+### Статус проекта
+Завершен
